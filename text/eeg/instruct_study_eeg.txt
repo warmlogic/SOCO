@@ -1,0 +1,12 @@
+STUDY PHASE
+
+You will see objects surrounded by colored frames.  Each frame will be
+one of these colors: study_colors.
+
+Your job is to remember each object and the color of the frame with
+which it was paired.
+
+Keep your eyes on the cross in the middle.  Please try to not blink
+until the break.
+
+* Please press RETURN to continue *

@@ -1,0 +1,81 @@
+PRACTICE TEST PHASE
+
+You will now make judgments about "old" objects from the list that you
+just studied and "new" objects that you did not study.
+
+For each presentation, you will briefly see TWO colors followed by an
+object.  If the object is "old", one of the colors framed the object
+during the study list and the other color did not (it is there to
+distract you).  Your job for each old object is to REMEMBER THE
+STUDIED FRAME COLOR and choose that color as your answer.  If instead
+the object is "new" (it was not on the study list) you will also see
+two colors, but BOTH colors are distractors because you did not study
+the object.  Your job for each new object is to CALL IT "NEW" (using
+the "newText_test" response).
+
+The keys for choosing one of the two colors are colorLeftKey_test and
+colorRightKey_test, and the key for "newText_test" is newKey_test.
+
+If you know it is an old object but you cannot remember its frame
+color, take your best guess.
+
+You will always make a second response after a color or new judgment.
+
+If you choose a color, you will then respond with one of three
+options: whether you REMEMBER seeing that COLOR framing that
+particular object ("rememSourceText_test"), whether you REMEMBER some
+OTHER detail about studying the object ("rememOtherText_test"), or
+whether the object feels FAMILIAR but you can't remember any details
+about studying it ("knowText_test").  You will use the same keys:
+"rememSourceText_test" is rsKey_test, "rememOtherText_test" is
+roKey_test, and "knowText_test" is kKey_test.
+
+If instead you say the object is new by answering "newText_test", you
+will say whether you are "sureText_test" about it by pressing
+sureKey_test, or that it was "maybeText_test" new by pressing
+maybeKey_test.
+
+-------------------------------------
+
+Explanation of Remember and Familiar:
+
+When we REMEMBER something, we consciously recollect and become aware
+of aspects of its previous occurrence.  For example, you might
+remember a recent movie and be able to recall specific details about
+it, like where and with whom you saw it.  At other times, we might
+feel that something is FAMILIAR and has occurred before, but can't
+consciously recollect what was experienced at the time of its prior
+occurrence.  For example, you might recognize a person and be certain
+that you know him or her, but you're unable to recall any specific
+details about the person, such as the person's name.
+
+For this test, REMEMBERING an object's COLOR ("rememSourceText_test",
+rsKey_test) signifies that the object evokes a specific memory of
+being framed with that color during study.  REMEMBERING some OTHER
+("rememOtherText_test", roKey_test) detail about it could include
+remembering how it looked on the screen during the study list, the way
+in which it was oriented in the picture, or even what you were
+thinking or doing at the time it was shown.  Being FAMILIAR
+("knowText_test", kKey_test) with an object signifies that you are
+confident that you saw it before, but that you cannot recollect any
+details about doing so.
+
+EXAMPLE: say you saw a pie during a study list, and then you see the
+pie during test.  If you can specifically remember the color that
+framed it during the study period, you would answer REMEMBER COLOR
+("rememSourceText_test", rsKey_test).  If instead you remember how
+seeing the pie at study made you hungry or something else other than
+its study frame color, you would answer REMEMBER OTHER
+("rememOtherText_test", roKey_test).  If you know you saw the pie but
+you cannot remember anything about studying it, then you would answer
+FAMILIAR ("knowText_test", kKey_test).
+
+-------------------------------------
+
+Put your index fingers on the colorLeftKey_test and colorRightKey_test
+keys now, and take a moment to memorize the key assignments.  Please
+keep your eyes on the cross in the middle of the screen.  Make sure
+you wait to respond until AFTER the object disappears and you see the
+prompt.
+
+* Please press RETURN to continue *
